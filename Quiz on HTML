@@ -1,0 +1,36 @@
+What is the correct HTML for adding a background color?
+<body style="background-color:yellow;"> 
+
+Choose the correct HTML element to define important text
+<strong>
+
+What is the correct HTML for creating a hyperlink?
+<a href="http://www.w3schools.com">W3Schools</a>  
+
+What is the correct HTML for making a checkbox?
+<input type="checkbox">
+
+What is the correct HTML for making a text input field?
+<input type="text">  
+
+What is the correct HTML for making a drop-down list? 
+<select> 
+
+What is the correct HTML for making a text area?
+<textarea>  
+
+What is the correct HTML for inserting an image?
+<img src="image.gif" alt="MyImage"> 
+
+What is the correct HTML for inserting a background image?
+<body style="background-image:url(background.gif)">  
+
+Block elements are normally displayed without starting a new line.  
+False  
+
+Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?
+alt  
+
+Which input type defines a slider control?
+range 
+
